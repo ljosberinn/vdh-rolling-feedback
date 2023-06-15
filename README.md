@@ -25,8 +25,11 @@ Tier 1 feedback items are critical/major discussion points.
   - There's no non-pvp reason to ever pick `Meteoric Strikes` but its gating the entire right side despite there being no interaction to any connected ability. We'd suggest making it a PvP talent
   - `Retaliation` is undertuned. even a 300% buff would not make it interesting enough, as it counteracts design wise with `Demon Spikes` in general. I'd suggest tying it to the reverse scenario: parrying (possibly regardless of `Demon Spikes` being up? or both in `Demon Spikes` and `Metamorphosis` being up) cause the attacker to take physical damage. the threat modifier is irrelevant, both now and in the future, we don't have threat issues and you need to have threat for this talent to take effect anyways.
   - `Ruinous Bulwark` is counteracting `Demonic`. I understand it's probably also there because `Demonic` is not baseline and Bulwark is better without `Demonic`, but everybody plays `Demonic`.
-  - `Roaring Fire` is the same as `Ruinous Bulwark`. suggesting to either just remove `Roaring Fire` or to merge them. unless `Demonic` changes, these will never be picked.
-  - `Soulmonger` has and is counteracting all other sources of heal we have. It does nothing when you're struggling to survive and when you don't, you don't need 10% additional hp anyways. Heavily suggest reverting it to the azerite trait version (shielding per soul fragment consumed, removing the overheal requirement)
+  - `Roaring Fire` is the same as `Ruinous Bulwark`. suggesting to either just remove `Roaring Fire` or to merge them. unless `Demonic` changes, these will never be picked outside of raid encounters where you don't need silence and rather have a talent with minimal impact than a talent with zero impact.
+  - `Soulmonger` has and is counteracting all other sources of heal we have. It does nothing when you're struggling to survive and when you don't, you don't need 10% additional hp anyways.
+
+    > Requested solution: revert to the azerite trait version, shielding per soul fragment consumed. remove the overheal requirement
+
 - A lot of talents from the class/spec tree in general feel like "filler talents". For example, we need to spend five points to get the entire value of `Frailty` while the "main frailty generator" (`Soul Cleave`) is target capped at 5. That feels extremely unsatisfying.
 - An 8 minutes cooldown on `Last Resort` with 0 cooldown reduction tied to it feels anachronistic.
   - `Battle-Scarred Veteran` is 3 minutes, no cdr, but not a full cheat
@@ -35,7 +38,8 @@ Tier 1 feedback items are critical/major discussion points.
   - `Divine Shield` is a literal immunity on top
   - monk has `Stagger` permanently
   - `Purgatory` is an actual cheat with 4 minutes and no cdr
-  - A suggestion would be to add some form of cooldown reduction to it (e.g. based on souls or fury consumed) or to simply lower the cooldown
+  
+    > Requested solution: add some form of cooldown reduction to `Last Resort`, e.g. based on souls or fury consumed -- or simply lower the cooldown
 
 ## Tier 2
 
@@ -69,6 +73,9 @@ Tier 2 feedback items are significant but not make-or-break.
 Tier 3 feedback items are minor or quality-of-life.
 
 - Souls should spawn based on haste rating. above 25%ish haste, you press `Fracture` at 3 souls and the gcd is ready while the second soul is still spawning so you have to hold `Spirit Bomb` briefly before you can use it. One suggestion is to make Soul Fragments function like a normal combo Point system from Rogues or Feral.
+
+  > Requested solution: reduce delay to spawn soul fragments based on Haste rating
+
 - `Fiery Brand` should not be able to spread to pets (e.g. Fodder to the Flame demons).
 - `Fiery Brand` spread at 2 seconds and on a random target is another layer of unreliability because you dont know whether it´ll spread to the 2nd tankbuster mob you currently have in your pull or not
 
