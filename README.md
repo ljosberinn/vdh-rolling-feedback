@@ -4,19 +4,17 @@
 
 Tier 1 feedback items are critical/major discussion points.
 
-- Soul Cleave is capped at 5 targets. This means that we cannot hit every target on a >= 6 target pull and has implications for defensive use (Frailty) and aggro; it ultimately mandates that we take Spirit Bomb.
-
-  > Requested solution: remove the hard cap at 5 targets. It can be reduced damage after 5 targets if need be.
-
+- Soul Cleave is capped at 5 targets. This means that we cannot hit every target on a >= 6 target pull and has implications for defensive use (Frailty) and aggro; it ultimately mandates that we take `Spirit Bomb`.
+  - Requested solution: remove the hard cap at 5 targets. It can be reduced damage after 5 targets if need be.
 - Talents like `Fiery Demise`/`Burning Blood` nudge you towards holding `Fel Devastation` until `Fiery Brand` has spread enough or `Frailty` was stacked, which is counterintuitive because you can't do that in challenging content.
 - Whenever we have to kite or cannot spend for a longer time we're suspectible to synced autohits nearly or entirely oneshotting us when going back in because our debuffs fall off. `Frailty` is too short-lived and takes too long to build again if you go back, you'd need e.g. `Fel Devastation` again, to be able to be tanky enough to build resources.
-  > Requested solution: split Frailty into two parts - damage reduction buff that goes on the player with Void Reaver and damage multiplier debuff with Vulnerability. Each Frailty applying event would apply 1 stack of the Frailty buff to the player and 1 stack of the Frailty debuff to the target (e.g., Soul Cleave hits 5 targets and applies 1 stack to the player and 1 stack to each target hit). Some mechanism for maintaining the Frailty buff on the player without having to be in melee range would also be appreciated (such as no/delayed decay while out of combat).
-  > Alternative solution: Some kind of ranged ability to maintain Frailty while kiting, during forced movement (like Sanguine) or out of melee range similar to Outbreak from Unholy DK. This could spend either Fury or Soul Fragments to keep Frailty up while out of range.
+  > Requested solution: split `Frailty` into two parts - damage reduction buff that goes on the player with `Void Reaver` and damage multiplier debuff with `Vulnerability`. Each `Frailty` applying event would apply 1 stack of the `Frailty` buff to the player and 1 stack of the `Frailty` debuff to the target (e.g., `Soul Cleave` hits 5 targets and applies 1 stack to the player and 1 stack to each target hit). Some mechanism for maintaining the `Frailty` buff on the player without having to be in melee range would also be appreciated (such as no/delayed decay while out of combat).
+  > Alternative solution: An ability similar to Unholy DK's `Unholy Blight` that applies `Frailty` to nearby targets every tick instead of Virulent Plague. This would resolve a few DR issues with starting into a new pack or re-entering an existing pack after kiting.
 
 - This leads to also the requirement of having to pool resources at the end of a previous pull to not just fall over at the start of the next pull, something no other tank has to do except Blood DK, but they have quite a couple more tools available for smoothing incoming damage and can guarantee having `Bone Shield` at the start of the pull, while we cannot guarantee having `Demon Spikes` because we cannot have 100% `Demon Spikes` uptime.
 - We'd propose making at the very least `Fiery Brand` a buff on the player, allowing us to prebrand ourselves before a dangerous pull. I can also see moving `Frailty` towards more of something like `Bone Shield` is; a long lived stacking buff on the player granting you more benefits at higher stacks.
-  - This would have implications with things like Fiery Demise. We propose the same thing here that we proposed with Frailty: split Fiery Brand into a buff and a debuff.
-  - We can also see a world where a set of talents exist that turn Fiery Brand into a selfcast buff with reduced CD and DR - maybe 30s CD and 20% DR - while the default behavior remains the same.
+  - This would have implications with things like `Fiery Demise`. We propose the same thing here that we proposed with `Frailty`: split `Fiery Brand` into a buff and a debuff.
+  - We can also see a world where a set of talents exist that turn `Fiery Brand` into a selfcast buff with reduced CD and DR - maybe 30s CD and 20% DR - while the default behavior remains the same.
 - Which is another issue; all other tanks can maintain 100% mitigation. We still cannot, even with `Feed the Demon` and `Extended Spikes`.
 - We are extremely dependant on `Demonic` because of that. Without `Demonic`, the spec is close to unplayable in highkeys/challenging content
 - Half of our spec tree is dead to the degree of never even remotely thinking about picking it. the two far right columns see zero play. in particular, these are especially problematic in their current form:
@@ -32,8 +30,7 @@ Tier 1 feedback items are critical/major discussion points.
   - `Ruinous Bulwark` is counteracting `Demonic`. I understand it's probably also there because `Demonic` is not baseline and Bulwark is better without `Demonic`, but everybody plays `Demonic`.
   - `Roaring Fire` is the same as `Ruinous Bulwark`. suggesting to either just remove `Roaring Fire` or to merge them. unless `Demonic` changes, these will never be picked outside of raid encounters where you don't need silence and rather have a talent with minimal impact than a talent with zero impact.
   - `Soulmonger` has and is counteracting all other sources of heal we have. It does nothing when you're struggling to survive and when you don't, you don't need 10% additional hp anyways.
-
-    > Requested solution: revert Soulmonger to the azerite trait version, shielding per soul fragment consumed. remove the overheal requirement
+    - Requested solution: revert `Soulmonger` to the azerite trait version, shielding per soul fragment consumed. remove the overheal requirement
 
 - A lot of talents from the class/spec tree in general feel like "filler talents". For example, we need to spend five points to get the entire value of `Frailty` while the "main frailty generator" (`Soul Cleave`) is target capped at 5. That feels extremely unsatisfying.
 - An 8 minutes cooldown on `Last Resort` with 0 cooldown reduction tied to it feels anachronistic.
@@ -43,8 +40,7 @@ Tier 1 feedback items are critical/major discussion points.
   - `Divine Shield` is a literal immunity on top
   - monk has `Stagger` permanently
   - `Purgatory` is an actual cheat with 4 minutes and no cdr
-  
-    > Requested solution: add some form of cooldown reduction to `Last Resort`, e.g. based on souls or fury consumed -- or simply lower the cooldown
+  - Requested solution: add some form of cooldown reduction to `Last Resort`, e.g. based on souls or fury consumed -- or simply lower the cooldown
 
 ## Tier 2
 
@@ -71,20 +67,21 @@ Tier 2 feedback items are significant but not make-or-break.
   - As mentioned above we are extremely dependant on `Demonic`. There is no actual choice betweem `First of the Illidari` and `Demonic`
   - In general the amount of 2 point nodes the class tree contains is massive.
 - `Feast of Souls` never really got picked since BfA. The healing it provides doesnt scale well into more difficult types of content and sadly it doesnt stack several applications.
-
-  > Requested solution: allow stacks and have healing scale with max health so it's not suddenly useless in `Metamorphosis` windows and continuously scales through power levels
+  - Requested solution: allow stacks and have healing scale with max health so it's not suddenly useless in `Metamorphosis` windows and continuously scales through power levels
+- The spell queue changes in dungeons have made `Sigil of Silence` feel significantly worse to use; it was previously very useful for stopping an entire pack from casting their abilities and now it's very inconsistent in whether or not it works the way you'd intend it to be used.
 
 ## Tier 3
 
 Tier 3 feedback items are minor or quality-of-life.
 
-- Souls should spawn based on haste rating. above 25%ish haste, you press `Fracture` at 3 souls and the gcd is ready while the second soul is still spawning so you have to hold `Spirit Bomb` briefly before you can use it. One suggestion is to make Soul Fragments function like a normal combo Point system from Rogues or Feral.
-
-  > Requested solution: reduce delay to spawn soul fragments based on Haste rating
-
-- `Fiery Brand` should not be able to spread to pets (e.g. Fodder to the Flame demons).
+- Souls should spawn based on haste rating. above 25%ish haste, you press `Fracture` at 3 souls and the gcd is ready while the second soul is still spawning so you have to hold `Spirit Bomb` briefly before you can use it. Alternative solution suggestion is to make Soul Fragments function like a normal combo Point system from Rogues or Feral.
+  - Requested solution: reduce delay to spawn soul fragments based on Haste rating
+- `Fiery Brand` should not be able to spread to pets (e.g. `Fodder to the Flame` demons).
 - `Fiery Brand` spread at 2 seconds and on a random target is another layer of unreliability because you dont know whether it´ll spread to the 2nd tankbuster mob you currently have in your pull or not.
 - `Fiery Brand` should prioritize spreading to elite mobs.
+- `Throw Glaive` does very little damage - this is mostly good as we don't particularly want to have `Throw Glaive` as a regular part of the rotation. It does result in `Throw Glaive` generating very little threat even with its massive threat modifiers.
+  - One possible solution would be a talent that makes `Throw Glaive` do magic damage from a random school on every cast. This wouldn't incentivize fitting `Throw Glaive` into `Fiery Demise` windows and would result in `Throw Glaive` doing roughly 30% more damage, which would be a nice threat generation gain.
+- `Flame Crash` is missed, especially with the upcoming T31 tier set.
 
 ## Known Bugs
 
