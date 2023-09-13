@@ -79,7 +79,7 @@ Tier 3 feedback items are minor or quality-of-life.
 - `Fiery Brand` should prioritize spreading to elite mobs.
 - `Throw Glaive` does very little damage - this is mostly good as we don't particularly want to have `Throw Glaive` as a regular part of the rotation. It does result in `Throw Glaive` generating very little threat even with its massive threat modifiers.
   - One possible solution would be a talent that makes `Throw Glaive` do magic damage from a random school on every cast. This wouldn't incentivize fitting `Throw Glaive` into `Fiery Demise` windows and would result in `Throw Glaive` doing roughly 30% more damage, which would be a nice threat generation gain.
-- `Flame Crash` is missed, especially with the upcoming T31 tier set.
+- `Flame Crash` is missed, especially with the upcoming T31 tier set. If this came with the removal of some talents reducing the cooldown of Infernal Strike, due to balancing issues, that would be understandable.
 
 ## Known Bugs
 
