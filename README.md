@@ -81,6 +81,7 @@ Tier 3 feedback items are minor or quality-of-life.
   - One possible solution would be a talent that makes `Throw Glaive` do magic damage from a random school on every cast. This wouldn't incentivize fitting `Throw Glaive` into `Fiery Demise` windows and would result in `Throw Glaive` doing roughly 30% more damage, which would be a nice threat generation gain.
 - `Flame Crash` is missed, especially with the upcoming T31 tier set. If this came with the removal of some talents reducing the cooldown of Infernal Strike, due to balancing issues, that would be understandable.
 - `Soul Fragment` healing isn't increased by taking environmental damage, which makes fights where damage isn't appropriately sourced not much fun.
+- Feeling forced into taking `Precise Sigils`/`Concentrated Sigils` due to the extra duration on Sigil of Flame increasing T31 procs does not feel good due to the massive loss of control this creates.
 
 ## Known Bugs
 
