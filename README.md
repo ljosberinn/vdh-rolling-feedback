@@ -94,4 +94,35 @@ Tier 3 feedback items are minor or quality-of-life.
 - `Soul Cleave` does not benefit from its own stack of `Frailty` applied through `Void Reaver` (is applied ~2 server ticks late).
 - Soul Fragments spawned by `Fodder to the Flame` do not provide a stack of `Fires of Fel` from the T30 tier set.
 
-## Wishlist
+## 10.2
+
+- Burning Alive being uncapped feels _amazing_.
+- Charred Flesh being uncapped feels _amazing_.
+- Fel Flame Fortification gating Chains of Anger feels bad. It’s a talent that we would not take on its own merits and are only taking due to pathing requiring us to take it. Swapping Ascending Flame and Fel Flame Fortification would be a sensible change.
+- Perfectly Balanced Glaive gating Spirit Bomb feels bad as we're not taking Perfectly Balanced Glaive on its own merits. If Spirit Bomb wasn't next to it, we'd never take the node.
+
+### Bugs
+
+Note that this is not a comprehensive list of all Vengeance Demon Hunter bugs, just ones introduced on the 10.2 PTR.
+
+**THERE ARE NONE**
+
+### Fixed Bugs
+
+- ~~As of 10.2.0.51851, Ascending Flame causes the parry tooltip on Sigil of Flame from Illuminated Sigils to stack; the effect does not actually stack.~~
+- ~~As of 10.2.0.51851, Ascending Flame causes the damage multiplier for overlapped Sigil of Flames to be incorrect, resulting in a large multiplier on the 2nd stack, 3rd stack is fine.~~
+- ~~As of 10.2.0.51851, Ascending Flame causes all Sigil of Flame events to be attributed to the first VDH with Ascending Flame talented to have a currently active Sigil of Flame DoT on the target.~~
+- ~~As of 10.2.0.51851, procs from the 4pc will all go onto the player's currently selected target in AoE.~~
+- ~~As of 10.2.0.51790, Ascending Flame causes applying Sigil of Flame to refresh all existing Sigil of Flame DoTs on the target to full duration.~~
+- ~~As of 10.2.0.51685, when 2 VDH have Sigil of Flame on the same target, only the VDH who applied the first Sigil of Flame DoT receives stacks from the T31 2pc AND will receive all stacks from both players for the duration~~
+-~~ As of 10.2.0.51685, the T31 4pc does not provide CDR on Sigil of Flame when spending Fury~~
+- ~~As of 10.2.0.51685, Ascending Flame causes the second charge of Sigil of Flame from Illuminated Sigils to not apply Frailty until ~9s after your previous SoF cast; this behaves like an ICD rather than a delayed application~~
+- ~~As of 10.2.0.51685, Ascending Flame causes Sigil of Flame DoTs extended by Charred Flesh to drop off the target when the original duration would have expired~~
+- ~~As of 10.2.0.51521, Immolation Aura is 30s for VDH and does not benefit from our Immo Aura CDR or haste~~
+- ~~As of 10.2.0.51521, Illuminated Sigils' second charge goes away if talented into Precise Sigils or Concentrated Sigils~~
+- ~~As of 10.2.0.51521, Illuminated Sigils is giving 20% parry per target hit with Sigil of Flame as opposed to 20% additional parry against targets affected by Sigil of Flame~~
+- ~~As of 10.2.0.51521, Felblade costs 0 talent points~~
+- ~~As of 10.2.0.51521, Precise/Concentrated Sigils cause Cycle of Binding to not apply Sigil CDR when affecting a target~~
+- ~~As of 10.2.0.51521, Cycle of Binding does not give CDR to Elysian Decree, but casting Elysian Decree causes CDR on other Sigils~~
+- ~~As of 10.2.0.51521, Improved Sigil of Misery does not reduce the cooldown of Sigil of Misery when talented into Precise/Concentrated Sigils~~
+- ~~As of 10.2.0.51601, Illuminated Sigils’ tooltip is showing 30% parry instead of the 20% that it grants~~
